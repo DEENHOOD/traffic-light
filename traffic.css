@@ -1,0 +1,24 @@
+#container{
+    height: 150px;
+    width: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+.circle{
+    height: 35px;
+    width: 30px;
+    margin:  10px 7px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+#red{
+    background-color: red;
+}
+#yellow{
+    background-color: yellow;
+}
+#green{
+    background-color: green;
+}
